@@ -7,4 +7,5 @@ To complete this task , I created a bash script that was able to download the cs
 To check this script clone the directory ,build the docker image and run the container by specifying the path to a local directory where you want to store the downloaded data files.
 
 
-Thanks!
+Thanks & Regards 
+Abubakar Arshad
